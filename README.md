@@ -1,23 +1,15 @@
-# swipertemplate
+# swiper template 
 
-> Nuxt.js project
+> 这是一个nuxt中使用vue-aewsome-swiper的例子，其中将各个参数和基本切换效果都测试通过
 
-## Build Setup
 
 ``` bash
 # install dependencies
-$ npm install # Or yarn install
+$ npm install 
 
 # serve with hot reload at localhost:3000
 $ npm run dev
 
-# build for production and launch server
-$ npm run build
-$ npm start
+### 建议使用npm，cnpm有可能出现问题
 
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
